@@ -1,0 +1,10 @@
+C:Head SHA-1 checksum
+C++:Head SHA-1 checksum
+C#:Head SHA-1 checksum
+Fortran:Head SHA-1 checksum
+Java:Head SHA-1 checksum
+JavaScript:Head SHA-1 checksum
+Pascal:Head SHA-1 checksum
+PHP:Head SHA-1 checksum
+Python:Head SHA-1 checksum
+Ruby:Head SHA-1 checksum
