@@ -1,10 +1,10 @@
-C:Head SHA-1 checksum
-C++:Head SHA-1 checksum
-C#:Head SHA-1 checksum
-Fortran:Head SHA-1 checksum
-Java:Head SHA-1 checksum
-JavaScript:Head SHA-1 checksum
-Pascal:Head SHA-1 checksum
-PHP:Head SHA-1 checksum
-Python:Head SHA-1 checksum
-Ruby:Head SHA-1 checksum
+C:0865b88e0f5ed975b4cf397d81bf1025c0e3cc90
+C++:b4fd38f9c3704d1df2f07072b9bd55ed52205f4f
+C#:4cc5871bc5ec522af384321c7aeed26d23869e4b
+Fortran:785afca973f19123b2f47a47cfaae6bb9639f9cc
+Java:9c751e12476703e9296e7079d15a4ac5932e1c42
+JavaScript:8f71ac409973dbf43c2ba5922f2bb5a634698d56
+Pascal:657095bb387c78a170d92fe3c3ef48effeaa81a6
+PHP:f95f3cd5cffe03588bb2f5f74e5b958bbb66e320
+Python:05c044eb996d826b1ca2086f5226dee831a27383
+Ruby:f977542b4e1e1f068f0c7f4696ca47348e9912f3
